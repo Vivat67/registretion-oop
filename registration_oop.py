@@ -92,7 +92,7 @@ class AccountManager:
         возвращает логин и пароль.
 
         Returns:
-            login: логин
+            login: имя пользователя (логин)
             password: пароль
         """
         login = input('Введите имя пользователя: ')

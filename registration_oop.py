@@ -158,7 +158,7 @@ class AccountManager:
         регистрации.
 
         Args:
-            command: команда
+            command: команда(регистрация, авторизация)
         """
         try:
             login, password = self.log_pass_input()

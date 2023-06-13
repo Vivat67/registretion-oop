@@ -178,7 +178,6 @@ def main():
     account_manager = AccountManager()
     account_manager.user.create_file()
     print('Добро пожаловать!')
-    print('Хотите зарегистрироваться или авторизоваться?')
     while True:
         try:
             print('Введите:')

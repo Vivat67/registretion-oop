@@ -1,13 +1,12 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ReadME Generator</h3>
+  <h3 align="center">ReadME Регистрация - ООП</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    Форма регистрации и авторизации на ООП
     <br/>
     <br/>
     <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>

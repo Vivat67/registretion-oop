@@ -22,7 +22,7 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Authors](#authors)
+* [Авторы](#authors)
 * [Acknowledgements](#acknowledgements)
 
 ## Описание проекта
@@ -111,7 +111,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/ReadME-Generator/blob/main/LICENSE.md) for more information.
 
-## Authors
+## Авторы
 
 * **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
 

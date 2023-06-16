@@ -3,7 +3,7 @@
   <a href="https://github.com/Vivat67/registretion-oop.git">
   </a>
 
-  <h3 align="center">ReadME Регистрация - ООП</h3>
+  <h3 align="center">Регистрация - ООП</h3>
 
   <p align="center">
     Форма регистрации и авторизации на ООП

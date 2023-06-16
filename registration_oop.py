@@ -59,7 +59,7 @@ class UserBase:
         """
         Проверяет наличие логина в базе.
 
-        Функция проверяет является введенный логин оригинальным,
+        Метод проверяет является введенный логин оригинальным,
         если нет то сообщает об этом пользователю и предлагает
         придумать другой логин, либо авторизоваться.
 
@@ -174,9 +174,15 @@ class AccountManager:
             self.log_pass_verification(login, password)
 
 
-def main():
-    account_manager = AccountManager()
-    account_manager.user.create_file()
+def commands(self):
+    """
+    Данный метод реализует выбор из нескольких опций.
+    1. Регистрация: Выбор этой опции позволяет вам зарегистрировать новую учетную запись пользователя,
+       указав имя пользователя и пароль.
+    2. Авторизация: При выборе этой опции вам будет предложено ввести свое имя пользователя и пароль
+       для входа в существующую учетную запись.
+    3. Выход: эта команда завершает работу программы.
+    """
     print('Добро пожаловать!')
     while True:
         try:
@@ -189,9 +195,15 @@ def main():
                 raise ValueError
             if command == 3:
                 break
-            account_manager.choice_command(command)
+            self.choice_command(command)
         except ValueError:
             print('Ошибка ввода данных!')
+
+
+def main():
+    account_manager = AccountManager()
+    account_manager.user.create_file()
+    commands(account_manager)
 
 
 if __name__ == '__main__':

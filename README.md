@@ -6,7 +6,7 @@
   </p>
 </p>
 
-Language: ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.11-blue)
+Language: ![https://img.shields.io/badge/Python-3.11-blue](https://img.shields.io/badge/Python-3.11-blue)
 
 ## Содержание
 

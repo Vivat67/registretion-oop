@@ -10,7 +10,7 @@ Language: ![https://img.shields.io/badge/Python-3.11-blue](https://img.shields.i
 
 ## Содержание
 
-* [About the Project](#about-the-project)
+* [Описание проекта](#Описание-проекта)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -22,7 +22,7 @@ Language: ![https://img.shields.io/badge/Python-3.11-blue](https://img.shields.i
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
-## About The Project
+## Описание проекта
 
 ![Screen Shot](images/screenshot.png)
 
